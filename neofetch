@@ -10707,22 +10707,24 @@ EOF
         "openSUSE Leap"* | "openSUSE_Leap"*)
             set_colors 2 7
             read -rd '' ascii_data <<'EOF'
-${c2}                 `-++:`
-               ./oooooo/-
-            `:oooooooooooo:.
-          -+oooooooooooooooo+-`
-       ./oooooooooooooooooooooo/-
-      :oooooooooooooooooooooooooo:
-    `  `-+oooooooooooooooooooo/-   `
- `:oo/-   .:ooooooooooooooo+:`  `-+oo/.
-`/oooooo:.   -/oooooooooo/.   ./oooooo/.
-  `:+ooooo+-`  `:+oooo+-   `:oooooo+:`
-     .:oooooo/.   .::`   -+oooooo/.
-        -/oooooo:.    ./oooooo+-
-          `:+ooooo+-:+oooooo:`
-             ./oooooooooo/.
-                -/oooo+:`
-                  `:/.
+${c2}            ====
+           ======
+         ==== ====+
+       +====    +====
+     +===+        ====
+    ====            ====
+  +===               +====
+  ====               +====
+   =====            ====
+     +===+        =====
+  ==+  =====    +===+  ===
+  ====   ==== =====  =====
+    ====  =======   ====
+      ====  ===   ====
+       ====+    ====
+         ==== =====
+           ======
+             ==
 EOF
         ;;
 
@@ -10742,19 +10744,28 @@ EOF
         "openSUSE Tumbleweed"* | "openSUSE_Tumbleweed"*)
             set_colors 2 7
             read -rd '' ascii_data <<'EOF'
-${c2}                                     ......
-     .,cdxxxoc,.               .:kKMMMNWMMMNk:.
-    cKMMN0OOOKWMMXo. ;        ;0MWk:.      .:OMMk.
-  ;WMK;.       .lKMMNM,     :NMK,             .OMW;
- cMW;            'WMMMN   ,XMK,                 oMM'
-.MMc               ..;l. xMN:                    KM0
-'MM.                   'NMO                      oMM
-.MM,                 .kMMl                       xMN
- KM0               .kMM0. .dl:,..               .WMd
- .XM0.           ,OMMK,    OMMMK.              .XMK
-   oWMO:.    .;xNMMk,       NNNMKl.          .xWMx
-     :ONMMNXMMMKx;          .  ,xNMWKkxllox0NMWk,
-         .....                    .:dOOXXKOxl,
+${c2}         JJJJJJJJ
+      JJJJJJJJJJJJJJ
+    JJJJJJ   =JJJJJJJ
+   JJJJ      =JJJ JJJJ
+   JJJ       =JJJ   JJJ
+  JJJJ       =JJJ   JJJ
+  JJJJJJJJJJJJJJJ   JJJJ
+   JJJJJJJJJJJJJJ   JJJJ
+   JJJJ             JJJJ
+    JJJJJ=          JJJJ
+      JJJJJJJJJJJJJJJJJJJJJJJJJJJJJ=
+        =JJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+                    JJJJ         =JJJJJJ
+                    JJJJ            =JJJJ
+                    JJJJ   JJJJJJJJJJJJJJ
+                    JJJJ   JJJJJJJJJJJJJJJ
+                    JJJJ   JJJJ       JJJJ
+                     JJJ   JJJJ       JJJ
+                     JJJJJ JJJJ      JJJJ
+                      =JJJJJJJJ   JJJJJJ
+                        JJJJJJJJJJJJJJ
+                           JJJJJJJ=
 EOF
         ;;
 
